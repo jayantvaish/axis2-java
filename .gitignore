@@ -1,0 +1,22 @@
+# for those of us using git internally
+# before committing in the central svn repository.
+.settings
+.mymetadata
+*.class
+*.pyc
+*.iml
+*.ipr
+*.iws
+*.zip
+*.jar
+.classpath
+.project
+.metadata
+bin
+target
+reports
+derby.log
+test-output
+axis2/log
+axis2-war/src/main/webapp/WEB-INF/classes/log4j.properties.junit
+nohup.out
